@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5f15e97a.css",
+    "main.js": "/static/js/main.289581f9.js",
+    "static/js/787.cf37ffa0.chunk.js": "/static/js/787.cf37ffa0.chunk.js",
+    "static/media/blurr_effect.png": "/static/media/blurr_effect.d8d2ea9bb515adb43d41.png",
+    "static/media/img3.png": "/static/media/img3.bc8e833fb0d0a10c5c4e.png",
+    "static/media/top_bright.png": "/static/media/top_bright.02b39dc1a4a66ac1ed36.png",
+    "static/media/img2.png": "/static/media/img2.366c7f9f458520844c47.png",
+    "static/media/img1.png": "/static/media/img1.c3ce885ce2a44c691336.png",
+    "static/media/nft.svg": "/static/media/nft.8c4d17206d5b815a14884e06b865c734.svg",
+    "static/media/binance.svg": "/static/media/binance.1893e5a72a331fd02d821a13bf894bf1.svg",
+    "static/media/bitmex.svg": "/static/media/bitmex.53a1c0b299efa49a05ec9faf914f1853.svg",
+    "static/media/coinbase.svg": "/static/media/coinbase.7ddee006e76dfb083649da96077f77c2.svg",
+    "static/media/blockchain.svg": "/static/media/blockchain.0bbbdc65bbf75f5620c20f66f0a17caf.svg",
+    "static/media/collections.svg": "/static/media/collections.201c4b9a5f9e3a389df8849d39eb4200.svg",
+    "static/media/vector.svg": "/static/media/vector.4fc077284ed31a8d4b744089cb782dd3.svg",
+    "static/media/wallet.svg": "/static/media/wallet.f633ec8ee1ccac50ca87f1cdc76078d6.svg",
+    "static/media/google.svg": "/static/media/google.8c46a959fb033c4e3a44652dbf3e585d.svg",
+    "static/media/collection.svg": "/static/media/collection.46ac7db3a993c1c61fecb6ee12dcf4be.svg",
+    "static/media/twitter.svg": "/static/media/twitter.ad241635ba794870f777b564fdd194dc.svg",
+    "static/media/vector2.svg": "/static/media/vector2.6593fdbac624804adb0438bad140e8ed.svg",
+    "static/media/youtube.svg": "/static/media/youtube.56e0fe9091ab19a4c5fde0fde484015b.svg",
+    "index.html": "/index.html",
+    "static/media/heart.svg": "/static/media/heart.593778553a02b87c2b3d35b9f902ffb5.svg",
+    "static/media/report.svg": "/static/media/report.9d38021c90da43b8cfbd8a68f697e9b7.svg",
+    "static/media/arrow_down.svg": "/static/media/arrow_down.52ae37005f79ac688d3909a9e2d6795d.svg",
+    "static/media/heart_filled.svg": "/static/media/heart_filled.149fbf4c87a2536b7fe0a7c9eed36986.svg",
+    "static/media/facebook.svg": "/static/media/facebook.e7cdd71dc43b3c7b6913f8a53a7db4b0.svg",
+    "main.5f15e97a.css.map": "/static/css/main.5f15e97a.css.map",
+    "main.289581f9.js.map": "/static/js/main.289581f9.js.map",
+    "787.cf37ffa0.chunk.js.map": "/static/js/787.cf37ffa0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f15e97a.css",
+    "static/js/main.289581f9.js"
+  ]
+}
