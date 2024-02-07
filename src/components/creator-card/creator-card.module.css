@@ -1,0 +1,87 @@
+.card {
+    display: flex;
+    align-items: center;
+    padding-top: 26px;
+    padding-bottom: 26px;
+    padding-left: 29px;
+    background: #302034;
+    box-shadow: 2px 0px 0px 0px #E03054 inset;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    row-gap: 8px;
+    margin-left: 24px;
+    width: 275px;
+
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    row-gap: 6px;
+    align-items: center;
+    width: 151px;
+
+}
+
+.avatar {
+    width: 104px;
+    height: 104px;
+    object-fit: contain;
+}
+
+.name {
+    padding: 0;
+    margin: 0;
+    color: #F5FBF2;
+    font-family: Oxanium;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 35.452px;
+    /* 110.788% */
+    letter-spacing: 1.6px;
+}
+
+.money {
+    padding: 0;
+    margin: 0;
+    color: #BDAAC1;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 36px;
+}
+
+.number {
+    padding: 0;
+    margin: 0;
+    color: #F5FBF2;
+    font-family: Oxanium;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35.452px;
+    letter-spacing: 1.6px;
+}
+
+.text {
+    padding: 0;
+    margin: 0;
+    color: #908294;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 36px;
+}
+
+.line {
+    width: 3px;
+    height: 100px;
+    background: #49374E;
+}

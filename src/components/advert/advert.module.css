@@ -1,0 +1,119 @@
+.background {
+    display: flex;
+    width: 770px;
+    height: 1063px;
+    background-image: url(../../assets/images/top/blurr_effect.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+
+
+    margin-top: 242px;
+    margin-left: 59px;
+
+}
+
+.advert {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    width: 556px;
+    height: 718px;
+    background-image: url(../../assets/images/top/top_bright.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    z-index: 2;
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 512px;
+    height: 98px;
+    opacity: 0.95;
+    background: linear-gradient(93deg, rgba(255, 137, 61, 0.09) -52.37%, rgba(250, 250, 250, 0.90) 137.41%);
+    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.12);
+    backdrop-filter: blur(22.5px);
+    margin-top: 24px;
+    padding-left: 39px;
+    padding-right: 54px;
+
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    row-gap: 7px;
+}
+
+
+.title {
+    margin: 0;
+    padding: 0;
+    color: #E4DEE7;
+    font-family: Oxanium;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 1.44px;
+
+}
+
+.text {
+    margin: 0;
+    padding: 0;
+    color: #FFF;
+    font-family: Oxanium;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: normal;
+
+}
+
+.bottom_wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 558px;
+    height: 142px;
+    background: #fff;
+    padding-left: 60px;
+    padding-right: 39px;
+
+
+}
+
+.name {
+    margin: 0;
+    padding: 0;
+    color: #16091B;
+    font-family: Oxanium;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 1.96px;
+
+}
+
+.paragraph {
+    margin: 0;
+    padding: 0;
+    color: #594D5E;
+    font-family: Work Sans;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 35.452px;
+}
+
+.button {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.info_wrapper {
+    display: flex;
+    flex-direction: column;
+}

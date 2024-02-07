@@ -1,0 +1,32 @@
+.app {
+
+    font-family: "Roboto", sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+    scroll-behavior: smooth;
+    width: 1600px;
+    background-color: #1C121F;
+
+}
+
+* {
+    outline: none;
+    box-sizing: border-box;
+}
+
+.effect {
+    display: flex;
+    width: 770px;
+    height: 1063px;
+    background-image: url(../../assets/images/top/blurr_effect.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: 858px;
+}

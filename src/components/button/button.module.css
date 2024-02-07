@@ -1,0 +1,46 @@
+.button_yellow {
+    background: #FFCE4E;
+}
+
+.button_gray {
+    background: rgba(233, 215, 167, 0.10);
+}
+
+.button_black {
+    background: rgba(37, 25, 40, 1);
+}
+
+.text_yellow {
+    color: #FFCE4E;
+}
+
+.text_black {
+    color: #000;
+}
+
+.text_white {
+    color: #fff;
+}
+
+.size_big {
+    width: 257px;
+    height: 84px;
+}
+
+.size_medium {
+    width: 205px;
+    height: 72px;
+}
+
+.size_small {
+    width: 195px;
+    height: 64px;
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    border: 1px solid #FFCE4E;
+}

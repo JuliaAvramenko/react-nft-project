@@ -1,0 +1,51 @@
+.scroll {
+    width: 100%
+}
+
+.wrapper {
+    display: flex;
+    align-items: center;
+    height: 130px;
+    position: relative;
+
+}
+
+.button_wrapper {
+    display: flex;
+    column-gap: 28px;
+    float: right;
+    margin-right: 80px;
+    margin-bottom: 30px;
+}
+
+.button {
+    width: 54px;
+    height: 54px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    background-color: #F5FBF2;
+    opacity: 0.25;
+    border-radius: 50%;
+    border: none;
+}
+
+.button_img {
+    width: 25px;
+    object-fit: contain;
+}
+
+
+.cards {
+    display: flex;
+    column-gap: 36px;
+    align-items: center;
+    width: 100%;
+    /* overflow: hidden; */
+    margin-bottom: 80px;
+}
+
+.button_active {
+    opacity: 1;
+}

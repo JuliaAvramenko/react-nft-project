@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 180px;
+}
+
+.cards {
+    display: grid;
+    width: 1288px;
+    gap: 72px 56px;
+    grid-template-columns: 608px 608px;
+    grid-template-rows: 156px 156px;
+    margin-bottom: 80px;
+}
+
+.button_general {
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 35.452px;
+    letter-spacing: 1.5px;
+}

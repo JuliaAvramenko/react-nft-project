@@ -1,0 +1,19 @@
+.collections {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 180px;
+}
+
+.scroll {
+    padding-left: 80px;
+}
+
+.button_general {
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 35.452px;
+    letter-spacing: 1.5px;
+}

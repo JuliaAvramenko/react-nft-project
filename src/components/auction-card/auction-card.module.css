@@ -1,0 +1,159 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 495px;
+    padding-right: 32px;
+    padding-left: 32px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background: #3D2942;
+    position: relative;
+}
+
+.card:last-child::before {
+    background-color: red;
+    background-color: #3D2942;
+    opacity: 0.6;
+    position: absolute;
+    content: '';
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+
+
+.image {
+    width: 431px;
+    height: 359px;
+}
+
+.timer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #F5FBF2;
+    font-family: Work Sans;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 35.452px;
+    letter-spacing: 0.48px;
+    width: 194px;
+    height: 66px;
+    opacity: 0.95;
+    background: linear-gradient(125deg, #8613A5 18.61%, rgba(250, 250, 250, 0.65) 137.4%);
+    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.12);
+    backdrop-filter: blur(22.5px);
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 431px;
+    margin-top: 28px;
+    margin-bottom: 28px;
+}
+
+.avatar_container {
+    display: flex;
+    column-gap: 16px;
+}
+
+.avatar {
+    width: 54px;
+    height: 54px;
+    border-radius: 54px;
+}
+
+.title {
+    margin: 0;
+    padding: 0;
+    color: #F5FBF2;
+    font-family: Work Sans;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 35.452px;
+}
+
+.text {
+    margin: 0;
+    padding: 0;
+    color: #BDAAC1;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 35.452px;
+}
+
+.info_wrapper {
+    display: flex;
+    flex-direction: column;
+    row-gap: 8px;
+}
+
+.like {
+    display: flex;
+    align-items: center;
+    column-gap: 9px;
+}
+
+
+
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 431px;
+    margin-bottom: 40px;
+}
+
+.number {
+    margin: 0;
+    padding: 0;
+    color: #76607A;
+    font-family: Work Sans;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 35.452px;
+}
+
+.name {
+    margin: 0;
+    padding: 0;
+    color: #C6BFC8;
+    font-family: Work Sans;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 35.452px;
+}
+
+.price {
+    margin: 0;
+    padding: 0;
+    color: #F5FBF2;
+    font-family: Oxanium;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35.452px;
+}
+
+.button_ya {
+    width: 431px;
+    height: 78px;
+    font-family: Work Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 35.452px;
+    letter-spacing: 1.2px;
+    border: 1px solid #FDE8B3;
+}
+
+.like_button {
+    background-color: inherit;
+    border: none;
+}
